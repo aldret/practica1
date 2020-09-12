@@ -1,0 +1,21 @@
+h1{
+    color:aqua;
+    font-size: 80px;
+ 
+
+}
+body{
+    text-align: center;
+    background-image: url(../img/fondo1.jpegh);
+    background-attachment:fixed ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color: rgb(165, 42, 58);
+    font-size: 40px;
+    text-align: justify;
+}
+a{
+    color: aliceblue; 
+}
